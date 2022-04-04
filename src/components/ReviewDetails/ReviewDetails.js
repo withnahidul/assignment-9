@@ -16,7 +16,7 @@ const ReviewDetails = () => {
             <img
               src={reviews.image}
               alt=""
-              className="w-full object-cover object-center rounded-lg shadow-md"
+              className="w-full object-cover object-center rounded-full shadow-md"
             />
 
             <div className="relative px-4 -mt-16  ">
@@ -40,7 +40,7 @@ const ReviewDetails = () => {
                   </span>
                 </div>
                 <div>
-                  <span className="bg-indigo-100 text-teal-800 my-2 text-sm p-2 inline-block rounded-lg  tracking-wide">
+                  <span className="bg-red-100 text-teal-800 my-2 text-sm p-2 inline-block rounded-lg  tracking-wide">
                     {reviews.words}
                   </span>
                 </div>
