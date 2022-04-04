@@ -12,6 +12,9 @@ const Home = () => {
           <h1 className="text-7xl font-bold text-indigo-500 text-left">
             Review Website
           </h1>
+          <p>Hello!!! This is Nahidul Islam.Wellcome to My Book's Review
+              Website.You can Learn about Best selling Books summery and also
+              can gain knoledge.Have a great journey.... </p>
         </div>
         <div>
           <img
