@@ -45,7 +45,7 @@ const Home = () => {
         <ReviewDetails></ReviewDetails>
         <Link
           to={"/review"}
-          className="my-4 py-3 px-6 bg-red-400 hover:bg-red-500 rounded-lg"
+          className="my-4 py-3 px-6 bg-blue-500 hover:bg-red-400 rounded-lg"
         >
           Show All Review
         </Link>

@@ -22,7 +22,7 @@ const useReview = () => {
                                 <div className="bg-white p-6 rounded-lg shadow-lg">
                                     <div className="flex items-baseline">
                                         <span className="bg-teal-200 text-teal-800 text-xs px-2 inline-block rounded-full  uppercase font-semibold tracking-wide">
-                                            New
+                                            Recent
                                         </span>
 
                                     </div>
