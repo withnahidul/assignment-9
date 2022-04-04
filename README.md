@@ -2,6 +2,8 @@
 
 # Live Site Link
 
+https://nis-book-review.netlify.app/
+
 # Website Details:
 
 - Nis book review website developed by react.
