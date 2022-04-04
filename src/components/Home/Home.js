@@ -25,7 +25,7 @@ const Home = () => {
           </p>
           <Link
             to={"/register"}
-            className="bg-red-300 hover:bg-red-400 px-12 text-white py-3 mt-4 rounded-lg mx-auto"
+            className="bg-blue-500 hover:bg-red-400 px-12 text-white py-3 mt-4 rounded-lg mx-auto"
           >
             Join Now
           </Link>
@@ -33,13 +33,15 @@ const Home = () => {
         <div>
           <img
             src={img}
-            alt="Dates Image"
+            alt="Books Image"
             className="object-cover rounded-xl"
           />
         </div>
       </div>
       <div className="mb-10">
-        <h2 className="text-4xl font-bold text-red-400">Customer Reviews(3)</h2>
+        <h2 className="text-4xl font-bold text-blue-400">
+          Customer Reviews(3)
+        </h2>
         <ReviewDetails></ReviewDetails>
         <Link
           to={"/review"}
