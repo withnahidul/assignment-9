@@ -25,7 +25,7 @@ export default function App() {
         <Route path="*" element={<NotFound />} />
       </Routes>
       <footer>
-        <span>All Right Reserved, Md. Nahidul Islam | 2022</span>
+        <span>All Right Reserved | Md. Nahidul Islam | 2022</span>
       </footer>
     </div>
   );
