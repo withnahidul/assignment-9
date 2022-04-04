@@ -12,8 +12,16 @@ const Blog = () => {
         four step Warp child with context consumer. five step consumer follows
         the render prop pattern.
       </p>
-      <h2 className="text-4xl">What is Semantic tag?</h2>
-      <p className="text-2xl">text goes here...</p>
+      <h2 className="text-4xl">What is Semantic Tag?</h2>
+      <p className="text-2xl">
+        A semantic element clearly describes its meaning to both the browser and
+        the developer. The following HTML tags can be used to break your page
+        into identified parts: (header): t defines a header for a web page.
+        (nav): It defines a container for navigation links. (section): This
+        defines a section in a web page. (article): This element contains the
+        main part, containing information about the web page. (footer): It
+        defines a footer for a document or a section.
+      </p>
       <h2 className="text-4xl">
         3.Diffrence between Block elements and inline Elements?
       </h2>
